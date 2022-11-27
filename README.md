@@ -8,3 +8,5 @@ Time series model for covid 19 in Indonesia
 - MAE < 10% from total datasets
 - 31.822 data
 - 20% Validation set
+
+This code is done, but i will fix it later.
